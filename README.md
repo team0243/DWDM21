@@ -3,7 +3,8 @@ Data Warehouse &amp; Data Mining 2021
 
 เกียรติศักดิ์ แสนจันทร์ 623021041-7
 
-Group 
+Name Group : SAKUNA
+
 Kiartisak Senchan 623021041-7 (ME)
 
 Ratima Chinwong 623020042-0
