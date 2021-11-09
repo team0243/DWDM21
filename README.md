@@ -16,9 +16,11 @@ Suphalaksana Buajan 623020540-4
 Watcharaporn Nammungkhun 623020535-7
 
 # สรุปบทเรียน 
-
+xʕ≧ᴥ≦ʔx
 ## ภาคทฤษฎี    
-**1. Chapter 1 Introduction**\
-Data Mining คืออะไร?\
-Data Warehouse คืออะไร?\
-ตัวอย่างข้อมูล\
+**Ⅰ. Chapter 1 Introduction**\
+♦ Data Mining คืออะไร?\
+♦ Data Warehouse คืออะไร?\
+♦ ตัวอย่างข้อมูล
+
+
