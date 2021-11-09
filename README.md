@@ -33,7 +33,7 @@ Watcharaporn Nammungkhun 623020535-7
  ♦[ขนาดของข้อมูล,ชนิดของข้อมูล,คุณสมบัตรต่างๆ](https://github.com/team0243/DWDM21/blob/main/Chapter2.pdf)
 
 **Ⅲ  Chapter 3 Data Preprocessing**
-
+[คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter3.pdf)
 
  ♦Data Cleaning คืออะไร? หน้าที่?
 
@@ -44,6 +44,7 @@ Watcharaporn Nammungkhun 623020535-7
  ♦Dimensionality Reduction คืออะไร?
 
 **Ⅳ Chapter 6 Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods**
+[คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter6.pdf)
 
  ♦Patterns คืออะไร?
 
@@ -55,6 +56,7 @@ Watcharaporn Nammungkhun 623020535-7
 
 **Ⅴ. Chapter 8 Classification:Basic Concepts**
 [คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter7_Classification_Lecture.pdf)
+
  ....
  
  
