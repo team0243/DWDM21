@@ -54,7 +54,7 @@ Watcharaporn Nammungkhun 623020535-7
  ♦Frequent Itemsets(Patterns)
 
 **Ⅴ. Chapter 8 Classification:Basic Concepts**
-
+[คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter7_Classification_Lecture.pdf)
  ....
  
  
@@ -84,12 +84,19 @@ Watcharaporn Nammungkhun 623020535-7
 ## ภาคปฏิบัติ (Google Colab)
 
 **บทที่ 2 Getting to Know Your Data**
+
 **บทที่ 3 Data Preprocessing**
+
 **บทที่ 4 Data Warehousing and On-line Anaalytical Processing **
+
 **บทที่ 5 Association_Rules**
+
 **บทที่ 6 Classification**
+
 **บทที่ 7 Clustering**
+
 **โครงงานกลุ่ม Project**
+
 
 End
 
