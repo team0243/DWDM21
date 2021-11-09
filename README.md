@@ -17,7 +17,7 @@ Watcharaporn Nammungkhun 623020535-7
 
 # สรุปบทเรียน 
 
-## ภาคทฤษฎี 
+"  ## ภาคทฤษฎี  "   
 **1. Chapter 1 Introduction**
 Data Mining คืออะไร?
 Data Warehouse คืออะไร?
