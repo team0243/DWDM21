@@ -15,6 +15,6 @@ Suphalaksana Buajan 623020540-4
 
 Watcharaporn Nammungkhun 623020535-7
 
-##สรุปบทเรียน 
+# สรุปบทเรียน 
 
-ภาคทฤษฎี 
+## ภาคทฤษฎี 
