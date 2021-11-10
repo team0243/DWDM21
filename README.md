@@ -80,6 +80,7 @@ Watcharaporn Nammungkhun 623020535-7
    * การหาค่า Procision/Recall + Test data เพิ่มเติม
 
 **Ⅶ. Chapter 10 Cluster Analysis:Basic Concepts and Methods**
+[คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter10.pdf)
 
   * K-Means คืออะไร?
 
@@ -199,7 +200,8 @@ Watcharaporn Nammungkhun 623020535-7
 **MiniExam**
 [คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/MiniExam.ipynb)
 
-**โครงงานกลุ่ม Project**[คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Project_SUKUNA.ipynb)
+**โครงงานกลุ่ม Project**
+[คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Project_SUKUNA.ipynb)
 
 *ขอบคุณสำหรับความรู้ดีๆ สวัสดีครับ*
 
