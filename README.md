@@ -18,41 +18,43 @@ Watcharaporn Nammungkhun 623020535-7
 # สรุปบทเรียน 
   **ʕ￫ᴥ￩　ʔ** ไอเลิฟจารต้น
 ## ภาคทฤษฎี    
-**Ⅰ.Chapter 1 Introduction**
+**Ⅰ.Chapter 1 Introduction** [คลิกที่นี่](https://github.com/team0243/DWDM21)
 
- ♦ Data Mining คืออะไร?
+   * Data Mining คืออะไร?
 
- ♦ Data Warehouse คืออะไร?
+   * Data Warehouse คืออะไร?
 
- ♦ ตัวอย่างข้อมูล
+   * ตัวอย่างข้อมูล
 
- ♦ [สรุปเนื้อหาที่เรียนในคาบที่ 1 ](https://github.com/team0243/DWDM21)
 
-**Ⅱ.Chapter 2 Getting to Know Your Data**
 
- ♦[ขนาดของข้อมูล,ชนิดของข้อมูล,คุณสมบัตรต่างๆ](https://github.com/team0243/DWDM21/blob/main/Chapter2.pdf)
+**Ⅱ.Chapter 2 Getting to Know Your Data** [คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter2.pdf)
+
+
+   * ขนาดของข้อมูล,ชนิดของข้อมูล,คุณสมบัติต่างๆ
 
 **Ⅲ  Chapter 3 Data Preprocessing**
 [คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter3.pdf)
 
- ♦Data Cleaning คืออะไร? หน้าที่?
 
- ♦Data Integration คืออะไร? หน้าที่?
+  * Data Cleaning คืออะไร? หน้าที่?
 
- ♦Data Reduction and Tranformation คืออะไร? หน้าที่?
+  * Data Integration คืออะไร? หน้าที่?
 
- ♦Dimensionality Reduction คืออะไร?
+  * Data Reduction and Tranformation คืออะไร? หน้าที่?
+
+  * Dimensionality Reduction คืออะไร?
 
 **Ⅳ Chapter 6 Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods**
 [คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter6.pdf)
 
- ♦Patterns คืออะไร?
+  * Patterns คืออะไร?
 
- ♦ตัวอย่างการนำ patterns ไปใช้ประโยชน์
+  * ตัวอย่างการนำ patterns ไปใช้ประโยชน์
 
- ♦การนำ K-itemsets มาใช้/การคำนวณหาค่า K-itemsets
+  * การนำ K-itemsets มาใช้/การคำนวณหาค่า K-itemsets
 
- ♦Frequent Itemsets(Patterns)
+  * Frequent Itemsets(Patterns)
 
 **Ⅴ. Chapter 8 Classification:Basic Concepts**
 [คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Chapter7_Classification_Lecture.pdf)
