@@ -114,6 +114,9 @@ Watcharaporn Nammungkhun 623020535-7
     * Plot (เป็นการพล็อตกราฟที่เชื่อมกัน)
     * Bar Chart
     * Histogram
+ * [Distance Numpy](https://github.com/team0243/DWDM21/blob/main/Distance_Numpy.ipynb)
+    * Numpy Array
+    * Distance Matrix
   
 **บทที่ 3 Data Preprocessing**
    * [Data Preprocessig](https://github.com/team0243/DWDM21/blob/main/Data103(Chapter3).ipynb)
