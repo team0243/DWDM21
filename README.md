@@ -203,6 +203,8 @@ Watcharaporn Nammungkhun 623020535-7
 **โครงงานกลุ่ม Project**
 [คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Project_SUKUNA.ipynb)
 
+**โครงงานกลุ่ม นำเสนอ**
+[คลิกที่นี่](https://github.com/team0243/DWDM21/blob/main/Project.pdf)
 *ขอบคุณสำหรับความรู้ดีๆ สวัสดีครับ*
 
 
